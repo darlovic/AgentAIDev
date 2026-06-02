@@ -1,0 +1,17 @@
+# Gros dossiers
+snap/
+openclaw-ollama-setup/
+devmate/devmate-vscode/devmate/
+*.iso
+*.ova
+*.box
+*.qcow2
+*.vmdk
+*.vdi
+*.img
+node_modules/
+.git/
+.DS_Store
+*.log
+*.tmp
+*.cache
