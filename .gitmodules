@@ -1,0 +1,3 @@
+[submodule "openclaw-ollama-setup"]
+	path = openclaw-ollama-setup
+	url = ./openclaw-ollama-setup
